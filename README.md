@@ -4,6 +4,7 @@
 🇧🇷 From Brazil <br>
 🎓 Majoring in computer science <br>
 💻 Currently learning web and game development <br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Matheus-Gr)](https://www.linkedin.com/in/Matheus-Gr)
 <!--
 **Matheus-Gr/Matheus-Gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
