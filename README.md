@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👨🏾‍🦱 I'm Matheus, 19 yo
+🇧🇷 From Brazil
+🎓 Majoring in computer science
+💻 Currently learning web and game development.
 <!--
 **Matheus-Gr/Matheus-Gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
