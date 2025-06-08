@@ -8,10 +8,9 @@ In my free time, you'll usually find me:
 - Watching movies and series 🎬
 - Reading books 📖
 
-### 🚀 Latest Project
-
-🎥 [**MoviesBala**](https://www.moviesbala.com.br) – A web app for picking a random movie to watch with friends.  
-Add your favorite movies, create a group (party), and let the app choose what you'll watch together.  
+### ❤️ My Favorite Project
+🎥 [**MoviesBala**](https://www.moviesbala.com.br) – A web app for picking a movie to watch with your friends.  
+Create your Cineroom (group), add your favorite movies, let the app choose what you'll watch together, and have fun reading all your friends' reviews about the movie.
 Built with love using React, Node.js, and MongoDB.
 
 ### 📫 Contact
