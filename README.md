@@ -1,5 +1,5 @@
 ### 👨🏽‍💻 About me
-I'm **Matheus**, 24 y/o from Brazil 🇧🇷.  
+I'm **Matheus**, 25 y/o from Brazil 🇧🇷.  
 Currently majoring in **Computer Science** 🎓 and learning **Web Development**, **Data Science**, and **Machine Learning** 💻.
 
 In my free time, you'll usually find me:
